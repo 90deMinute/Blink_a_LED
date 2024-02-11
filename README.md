@@ -4,12 +4,12 @@
 This project will make the LED connected to PIN 13 from the Arduino board blink on and off every second.
 
 ## Components 🎛️
-- Arduino Uno Board
-- Breadboard
+- one Arduino Uno Board
+- one Breadboard
 
-- 2 Jumpers
-- 2 Resistors
-- LED
+- two Jumpers
+- one Resistor
+- one LED
 
 ## Code Explanation 💻
 The **setup()** function is called once when the board is powered on or reset. <br>
